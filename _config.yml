@@ -8,7 +8,7 @@ bio: A Man who travels the world eating noodles
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/me.jpeg
+picture: assets/images/profile.jpeg
 
 url: http://bjhlvtna.github.io
 # your url: http://USERNAME.github.io
@@ -47,7 +47,7 @@ authors:
         name: Jinho Byun 
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/me.jpeg
+        picture: assets/images/profile.jpeg
         #twitter: johndoe
 
 # do you want a larger site? change the option below
